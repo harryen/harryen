@@ -1,6 +1,6 @@
 <a href="https://pythondiscord.com"><img width="240" align="right" src=""></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+harry.;I'm+from+England+EN.;I'm+the+founder+of+1001001+Development+Team.;I+make+stuff!;I'm+a+python+developer,;a+discord+developer,;and+a+web+developer.)](https://linktr.ee/harry_dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+harry.;I'm+from+England+EN.;I'm+the+founder+of+1001001+Development.;I+make+stuff!;I'm+a+python+developer,;a+discord+developer,;and+a+web+developer.)](https://linktr.ee/harry_dev)
 
 I make stuff. EN
 
