@@ -12,9 +12,8 @@ You can find me on the [1001001 Development Discord](https://discord.gg/MM4s93Zx
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hc5pDWNNzx)
 [![LinkTree](https://img.shields.io/badge/LinkTree-%32CD32.svg?&style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/harry_dev)
 [![Personal Discord](https://img.shields.io/badge/PersonalDiscord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1281671786471362745)
-<!---
-harry.en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-https://github-readme-stats.vercel.app/api?username=Supermutec&show_icons=true&theme=cobalt&cache_seconds=1800
+
+
+![Supermuctec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supermutec&show_icons=true&theme=cobalt&cache_seconds=5)
+
