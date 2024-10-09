@@ -15,5 +15,5 @@ You can find me on the [1001001 Development Discord](https://discord.gg/MM4s93Zx
 
 
 
-![Supermuctec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Supermutec&show_icons=true&theme=cobalt&cache_seconds=5)
+![harry.en's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryen&show_icons=true&theme=cobalt&cache_seconds=5)
 
